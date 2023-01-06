@@ -650,3 +650,22 @@ template {
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
 }
+
+.react__list {
+  padding: 20px;
+}
+
+.react__list-item {
+  color: #000000;
+  font-size: 28px;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 1.71;
+}
+
+.react__list-item:hover {
+  text-decoration: underline;
+}
+
+.page.react {
+  background-color: antiquewhite;
+}
